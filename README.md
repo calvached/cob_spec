@@ -5,7 +5,7 @@ Cob Spec is a suite of tests used to validate a web server to ensure it adheres 
 To test your server against the Cob Spec suite of tests, follow the instructions below.
 
     git clone git@github.com:8thlight/cob_spec.git
-    git clone git@github.com:marosluuce/rubyslim.git
+    git clone git@github.com:unclebob/rubyslim.git
     cd cob_spec
 
     bundle install
